@@ -1,0 +1,29 @@
+name: Public product question
+description: Ask a high-level, non-confidential question about Agentic Commerce
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **PUBLIC DISCUSSION:** Anyone can read this Issue. Do not share passwords, API keys, payment details, personal customer data or proprietary diagrams. For private business matters contact the email listed in the README.
+  - type: dropdown
+    id: topic
+    attributes:
+      label: Topic
+      options:
+        - General product question
+        - Public demo
+        - Integration feasibility
+        - Commercial options
+        - Licensing or acquisition
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+      description: Explain the high-level question only. Do not include sensitive information.
+      placeholder: What would you like to know?
+    validations:
+      required: true
