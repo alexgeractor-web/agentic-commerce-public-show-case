@@ -44,6 +44,8 @@ AI-assisted commerce may require a bridge between an existing merchant stack and
 
 Prices are nonbinding starting estimates, **not a public offer**, verified market valuation or guarantee that a particular integration is deliverable. Exact scope, costs, schedule, taxes, acceptance tests, support terms and IP rights require a separate agreement. See [full details](docs/COMMERCIAL_OPTIONS.md).
 
+**Founder / community:** [Alex Ger Ventures on Reddit](https://www.reddit.com/user/AlexGerVentures/) — discussions about focused B2B software and technology exploration.
+
 ## For prospective buyers and integrators
 
 1. Try the [sandbox](https://agentic-commerce-public-sandbox.netlify.app/) and consult the [demonstration guide](docs/DEMO_GUIDE.md).
