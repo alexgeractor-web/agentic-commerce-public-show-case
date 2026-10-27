@@ -1,10 +1,21 @@
+![Agentic Commerce — public integration showcase](assets/agentic-commerce-hero.svg)
+
 # Agentic Commerce · Integration Layer
+**Explore merchant integration feasibility before commissioning a production connector.**
 
-**Public product showcase · Technical preview · Commercial inquiries**
+[**Try synthetic sandbox**](https://agentic-commerce-public-sandbox.netlify.app/) · [**Demo guide**](docs/DEMO_GUIDE.md) · [**Buyer checklist**](docs/BUYER_DUE_DILIGENCE.md) · [**Commercial options**](docs/COMMERCIAL_OPTIONS.md) · [**Contact privately**](mailto:agenticcommerce975@gmail.com?subject=Agentic%20Commerce%20Inquiry) · [**Русский**](#по-русски)
 
-> **Current status:** engineering prototype and public **simulation**, not a certified production integration, connected live merchant or proven payment/AI checkout system. Any commercial implementation is subject to feasibility assessment, mutually agreed scope and contract.
+> **Technology status:** Engineering prototype with a simulated public sandbox. No live merchant integration, autonomous buyer, payment operation, protocol certification or verified commercial deployment.
 
-[**Explore the public demo — simulated orders**](https://agentic-commerce-public-sandbox.netlify.app/) · [**Commercial options**](docs/COMMERCIAL_OPTIONS.md) · [**Ask a public question**](https://github.com/alexgeractor-web/agentic-commerce-public-show-case/issues/new?template=general-question.yml) · [**Private business inquiry**](mailto:agenticcommerce975@gmail.com?subject=Agentic%20Commerce%20Inquiry)
+| Audience | What the preview demonstrates | What it does not demonstrate |
+| :--- | :--- | :--- |
+| Merchant technology teams, integrators and platform architects | Synthetic catalog, inventory and simulated order workflows; concrete discovery questions | Live checkout, merchant ERP connections, production service levels or approved industry-standard compliance |
+
+**Start with a concrete use case.** We first review the merchant stack, existing native alternatives, integration constraints and acceptance checks. A paid assessment or pilot requires a separate feasibility review and agreed scope.
+
+**Related engineering work:** [Lead Leakage Auditor — CRM diagnostics](https://github.com/alexgeractor-web/lead-leakage-auditor-showcase) · [Digital Asset Factory portfolio](https://github.com/alexgeractor-web/lead-leakage-auditor-showcase/blob/main/docs/GITHUB-PROFILE-README.md)
+
+---
 
 ## The integration problem
 
