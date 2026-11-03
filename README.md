@@ -70,4 +70,6 @@ Agentic Commerce — **публичная презентация направл�
 
 **Вопросы:** [GitHub Issues](https://github.com/alexgeractor-web/agentic-commerce-public-show-case/issues/new?template=general-question.yml) — только для публичной информации. **Коммерческие запросы:** [agenticcommerce975@gmail.com](mailto:agenticcommerce975@gmail.com). Не публикуйте логины, API-ключи, клиентские данные и конфиденциальные материалы.
 
+**Отдельный образовательный ресурс:** [AI для жизни и работы — Telegram](https://t.me/ai_dlya_zhizni_raboty). Практические безопасные сценарии работы с нейросетями; это независимый информационный канал, не документация и не служба поддержки Agentic Commerce.
+
 © 2026. All rights reserved. See [LICENSE](LICENSE).
